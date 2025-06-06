@@ -1,0 +1,20 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color:white
+}
+
+.episodes {
+    width:50%;
+    margin-left: 5%;
+}
+
+.episodes ul {
+    list-style: none;
+    padding: 0;
+}
+
+.details {
+    width:50%
+}
